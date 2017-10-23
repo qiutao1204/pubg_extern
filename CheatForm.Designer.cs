@@ -456,7 +456,7 @@
             this.Controls.Add(this.materialTabControl1);
             this.Name = "CheatForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Battlegrounds Cheat by GENESIS";
+            this.Text = "Battlegrounds Cheat by zkitX";
             this.Load += new System.EventHandler(this.CheatForm_Load);
             this.materialTabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
